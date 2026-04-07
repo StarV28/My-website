@@ -1,0 +1,94 @@
+{
+  "menu": {
+    "home": "Home",
+    "work": "Projects",
+    "service": "Skills",
+    "about": "About",
+    "contact": "Contact",
+    "menu": "Menu"
+  },
+  "first": {
+    "name": "Volodymyr",
+    "firsName": "Starovoit",
+    "h1": "Full Stack Developer",
+    "sub-title": "Building web applications with Vue, Nuxt, and Node.js. Focused on scalable and user-friendly solutions."
+  },
+  "about": {
+    "title": "About Me",
+    "sub-title": "Full Stack Developer with 3+ years of experience building web applications that solve real business problems.",
+    "p1": "My journey in software development started with curiosity about how web applications work behind the scenes. Over time, it evolved into hands-on experience — today I build fullstack solutions from user interfaces to backend logic and databases.",
+    "p2": "I specialize in developing e-commerce platforms, admin panels, landing pages, and real-time applications (such as chat systems and WebSocket-based features). I work with both frontend (Vue, Nuxt) and backend (Node.js, APIs, databases), ensuring systems are stable, scalable, and well-structured.",
+    "p3": "I focus on writing clean, maintainable code, designing clear architecture, and using modern development practices. My goal is to build fast, user-friendly, and scalable applications.",
+    "p4": "I continuously improve my skills, focusing on TypeScript, backend development, and software architecture. I have experience delivering commercial projects — from individual features to complete applications.",
+    "title-small": "What I bring:",
+    "li1": "3+ years of practical experience in web development",
+    "li2": "Development of e-commerce platforms, admin panels, landing pages, and real-time applications",
+    "li3": "Fullstack experience (Vue / Node.js / MySQL / WebSocket)",
+    "li4": "Experience delivering commercial projects and business solutions",
+    "li5": "Strong understanding of client-server architecture and REST APIs",
+    "li6": "Modern tech stack (Composition API, Pinia, JWT, Docker)",
+    "li7": "Ability to independently deliver features from idea to production"
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "sub-title": "A comprehensive toolkit for building modern scalable applications across the full technology stack.",
+    "fr-title": "Frontend",
+    "fr0": "Building SPAs and multi-page applications using Vue / Nuxt.js",
+    "fr1": "Developing responsive and interactive user interfaces",
+    "fr2": "Using TypeScript, Composition API, and Pinia",
+    "fr3": "Modern markup and styling: HTML5, CSS3, SCSS",
+    "bac-title": "Backend",
+    "bac1": "Building REST APIs and real-time functionality with WebSocket",
+    "bac2": "Server-side development with Node.js and Express.js",
+    "bac3": "JWT authentication and user management",
+    "bac4": "API design and frontend integration",
+    "db-title": "Database",
+    "db1": "Database design and query optimization (MySQL)",
+    "db2": "Working with Prisma ORM and Redis caching",
+    "db3": "Designing robust data schemas for applications",
+    "dev-title": "DevOps & Tools",
+    "dev1": "Containerization and deployment with Docker",
+    "dev2": "Version control with Git / GitHub",
+    "dev3": "API testing and debugging with Postman",
+    "dev4": "Email integration with Nodemailer and server configuration"
+  },
+  "proj": {
+    "title": "Featured Projects",
+    "sub-title": "Projects that demonstrate my full stack development skills from concept to deployment.",
+    "ag-title": "Crypto Aggregator",
+    "ag-desc": "Real-time cryptocurrency aggregator built with Nuxt.js and Node.js (two-server architecture). Provides live price tracking, market data, and analytics with scalable backend and high performance.",
+    "st-title": "Mini Store",
+    "st-desc": "E-commerce web application built with Vue and Node.js. Includes product catalog, filtering, authentication, and admin features.",
+    "ger-title": "Restaurant Gericht",
+    "ger-desc": "Multi-page restaurant website built with HTML, CSS, and JavaScript. Features responsive design and structured content.",
+    "bs-title": "Barber Shop",
+    "bs-desc": "Multi-page barber shop website focused on usability, responsive layout, and clean design.",
+    "git-link": "View All Projects on GitHub"
+  },
+  "touch": {
+    "title": "Get In Touch",
+    "sub-title": "Interested in working together? Tell me about your project and let's discuss how I can help.",
+    "min-title": "Let's Connect",
+    "min-sub-title": "I'm open to new opportunities and collaborations. Feel free to reach out.",
+    "email": "Email",
+    "whatsUp": "WhatsApp",
+    "local": "Location"
+  },
+  "form": {
+    "title": "Send a Message",
+    "name": "Name",
+    "email": "Email",
+    "sub": "Subject",
+    "mess": "Message",
+    "btn": "Send Message"
+  },
+  "foot": {
+    "name": "Volodymyr Starovoit",
+    "connect": "Connect"
+  },
+  "seo": {
+    "text-footer": "Full Stack Developer specializing in Vue.js, Node.js, MySQL, and WebSocket technologies. Building scalable web applications, APIs, and real-time systems with clean architecture.",
+    "ogDescription": "Building scalable web apps with Vue, Nuxt, Node.js",
+    "ogTitle": "Volodymyr Starovoit - Full Stack Developer"
+  }
+}

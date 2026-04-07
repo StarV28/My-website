@@ -1,0 +1,45 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: black;
+  --sub-title-color: rgba(110, 108, 104, 0.955);
+  --accent-color: rgba(159, 158, 158, 0.8);
+  --line-color: rgba(202, 202, 202, 0.7);
+  --btn-bg-color: black;
+  --btn-color: #fff;
+}
+
+html.dark {
+  --btn-bg-color: #fff;
+  --btn-color: #000;
+  --bg-color: black;
+  --text-color: #ffff;
+  --line-color: rgba(52, 52, 52, 0.9);
+}
+
+body {
+  position: relative;
+  margin: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition:
+    background-color 0.4s ease,
+    color 0.4s ease;
+  font-family: "m-plus-rounded-1c", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+// * {
+//   outline: 1px solid red;
+// }

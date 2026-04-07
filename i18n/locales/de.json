@@ -1,0 +1,92 @@
+{
+  "menu": {
+    "home": "Startseite",
+    "work": "Projekte",
+    "service": "Fähigkeiten",
+    "about": "Über mich",
+    "contact": "Kontakt",
+    "menu": "Menü"
+  },
+  "first": {
+    "name": "Volodymyr",
+    "firsName": "Starovoit",
+    "h1": "Full Stack Entwickler",
+    "sub-title": "Entwicklung von Webanwendungen mit Vue, Nuxt und Node.js. Fokus auf skalierbare und benutzerfreundliche Lösungen."
+  },
+  "about": {
+    "title": "Über mich",
+    "sub-title": "Ich bin ein Full-Stack-Entwickler mit über 3 Jahren Erfahrung in der Entwicklung von Webanwendungen, die reale Probleme lösen.",
+    "p1": "Mein Einstieg in die Softwareentwicklung begann mit dem Interesse daran, wie Webanwendungen im Hintergrund funktionieren. Daraus entwickelte sich praktische Erfahrung: Heute entwickle ich Full-Stack-Lösungen — von Benutzeroberflächen bis hin zur Backend-Logik und Datenbanken.",
+    "p2": "Ich spezialisiere mich auf E-Commerce-Plattformen, Admin-Panels, Landingpages und Echtzeit-Anwendungen (z. B. Chats und WebSocket-Funktionen). Ich arbeite sowohl im Frontend (Vue, Nuxt) als auch im Backend (Node.js, APIs, Datenbanken) und stelle sicher, dass Systeme stabil, skalierbar und strukturiert sind.",
+    "p3": "Mein Fokus liegt auf sauberem, wartbarem Code, klarer Architektur und modernen Entwicklungsprozessen. Ziel ist es, performante und benutzerfreundliche Anwendungen zu entwickeln, die echte Geschäftsanforderungen erfüllen.",
+    "p4": "Ich entwickle meine Fähigkeiten kontinuierlich weiter, insbesondere in TypeScript, Backend-Entwicklung und Softwarearchitektur. Erfahrung in kommerziellen Projekten — von einzelnen Features bis hin zu vollständigen Anwendungen — ist vorhanden.",
+    "title-small": "Meine Stärken:",
+    "li1": "Über 3 Jahre praktische Erfahrung in der Webentwicklung",
+    "li2": "Entwicklung von E-Commerce, Admin-Panels, Landingpages und Echtzeit-Anwendungen",
+    "li3": "Full-Stack-Erfahrung (Vue / Node.js / MySQL / WebSocket)",
+    "li4": "Erfahrung mit kommerziellen Projekten und Business-Lösungen",
+    "li5": "Fundiertes Verständnis von Client-Server-Architektur und REST-APIs",
+    "li6": "Moderner Tech-Stack (Composition API, Pinia, JWT, Docker)",
+    "li7": "Selbstständige Umsetzung von Features von der Idee bis zum Release"
+  },
+  "skills": {
+    "title": "Fähigkeiten & Technologien",
+    "sub-title": "Ein umfassendes Toolkit zur Entwicklung moderner, skalierbarer Anwendungen über den gesamten Technologie-Stack hinweg.",
+    "fr-title": "Frontend",
+    "fr0": "Entwicklung von SPAs und mehrseitigen Anwendungen mit Vue / Nuxt.js",
+    "fr1": "Erstellung responsiver und interaktiver Benutzeroberflächen",
+    "fr2": "Einsatz von TypeScript, Composition API und Pinia",
+    "fr3": "Moderne Technologien: HTML5, CSS3, SCSS",
+    "bac-title": "Backend",
+    "bac1": "Entwicklung von REST-APIs und Echtzeitfunktionen mit WebSocket",
+    "bac2": "Serverentwicklung mit Node.js und Express.js",
+    "bac3": "JWT-Authentifizierung und Benutzerverwaltung",
+    "bac4": "API-Design und Integration mit dem Frontend",
+    "db-title": "Datenbanken",
+    "db1": "Datenbankdesign und Optimierung von Abfragen (MySQL)",
+    "db2": "Arbeit mit Prisma ORM und Redis-Caching",
+    "db3": "Entwicklung robuster Datenmodelle für Business-Anwendungen",
+    "dev-title": "DevOps & Tools",
+    "dev1": "Containerisierung und Deployment mit Docker",
+    "dev2": "Versionskontrolle mit Git / GitHub",
+    "dev3": "API-Tests und Debugging mit Postman",
+    "dev4": "E-Mail-Versand mit Nodemailer und Serverkonfiguration"
+  },
+  "proj": {
+    "title": "Ausgewählte Projekte",
+    "sub-title": "Projekte, die meine Full-Stack-Erfahrung von der Idee bis zum Deployment zeigen.",
+    "ag-title": "Krypto-Aggregator",
+    "ag-desc": "Echtzeit-Krypto-Aggregator auf Basis von Nuxt.js und Node.js (Zwei-Server-Architektur). Bietet Live-Preise, Marktdaten und Analysen mit hoher Performance und skalierbarem Backend.",
+    "st-title": "Mini Store",
+    "st-desc": "E-Commerce-Anwendung mit Vue und Node.js. Enthält Produktkatalog, Filter, Authentifizierung und Admin-Funktionen.",
+    "ger-title": "Restaurant Gericht",
+    "ger-desc": "Mehrseitige Restaurant-Website mit HTML, CSS und JavaScript. Responsives Design und strukturierte Inhalte.",
+    "bs-title": "Barbershop",
+    "bs-desc": "Mehrseitige Website mit Fokus auf Usability, klare Struktur und konsistentes Design.",
+    "git-link": "Alle Projekte auf GitHub ansehen"
+  },
+  "touch": {
+    "title": "Kontakt",
+    "sub-title": "Interesse an einer Zusammenarbeit? Erzählen Sie mir von Ihrem Projekt.",
+    "min-title": "Kontakt aufnehmen",
+    "min-sub-title": "Ich bin offen für neue Projekte und Kooperationen.",
+    "email": "E-Mail",
+    "whatsUp": "WhatsApp",
+    "local": "Standort"
+  },
+  "form": {
+    "title": "Nachricht senden",
+    "name": "Name",
+    "email": "E-Mail",
+    "sub": "Betreff",
+    "mess": "Nachricht",
+    "btn": "Senden"
+  },
+  "foot": {
+    "name": "Volodymyr Starovoit",
+    "connect": "Kontakt"
+  },
+  "seo": {
+    "text-footer": "Full Stack Entwickler mit Erfahrung in Vue.js, Node.js, MySQL und WebSocket-Technologien. Entwicklung skalierbarer Webanwendungen, APIs und Echtzeitsysteme mit klarer Architektur und effizienter Datenverarbeitung."
+  }
+}
