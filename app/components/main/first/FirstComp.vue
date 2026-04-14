@@ -134,6 +134,13 @@ const overlayClass = computed(() => {
     align-items: center;
     justify-content: flex-start;
     gap: 15px;
+    a {
+      transition: all 0.3s ease;
+      &:hover {
+        transition: all 0.3s ease;
+        transform: scale(1.3);
+      }
+    }
   }
 }
 @media (max-width: 768px) {
