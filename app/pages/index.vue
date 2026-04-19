@@ -14,6 +14,10 @@
 import GlobalLayout from "../layouts/global.layout.vue";
 import { useSeo } from "@/composables/useSeo";
 //---------------------------------------//
+definePageMeta({
+  section: "home",
+});
+//---------------------------------------//
 useSeo({
   jsonLd: {
     "@context": "https://schema.org",

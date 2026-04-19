@@ -2,7 +2,8 @@
   <div class="wrapper">
     <header>
       <div class="container">
-        <HeaderComp />
+        <HeaderComp v-if="route.meta.section === 'home'" />
+        <HeaderProjectComp v-else-if="route.meta.section === 'projects'" />
       </div>
     </header>
     <main>
@@ -18,7 +19,11 @@
   </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { useRoute } from "vue-router";
+//---------------------------------------//
+const route = useRoute();
+</script>
 
 <style lang="scss" scoped>
 .wrapper {

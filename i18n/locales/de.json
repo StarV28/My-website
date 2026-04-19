@@ -63,7 +63,8 @@
     "ger-desc": "Mehrseitige Restaurant-Website mit HTML, CSS und JavaScript. Responsives Design und strukturierte Inhalte.",
     "bs-title": "Barbershop",
     "bs-desc": "Mehrseitige Website mit Fokus auf Usability, klare Struktur und konsistentes Design.",
-    "git-link": "Alle Projekte auf GitHub ansehen"
+    "git-link": "Alle Projekte auf GitHub ansehen",
+    "read": "Projekt ansehen"
   },
   "touch": {
     "title": "Kontakt",
@@ -88,5 +89,113 @@
   },
   "seo": {
     "text-footer": "Full Stack Entwickler mit Erfahrung in Vue.js, Node.js, MySQL und WebSocket-Technologien. Entwicklung skalierbarer Webanwendungen, APIs und Echtzeitsysteme mit klarer Architektur und effizienter Datenverarbeitung."
+  },
+  "p-crypto": {
+    "title": "Crypto Aggregator (Nuxt.js + Node.js)",
+    "sub-title": "Ein Echtzeit-Kryptowährungs-Aggregator mit Live-Preisdaten, Analysen und Marktdaten. Entwickelt mit einer skalierbaren Backend-Architektur auf Basis von Nuxt 3 und Node.js.",
+
+    "h2-1": "Überblick",
+    "p-1": "Dieses Projekt wurde entwickelt, um Kryptowährungspreise in Echtzeit zu überwachen und darzustellen. Es nutzt moderne Webtechnologien wie Nuxt 3 und Node.js für hohe Performance und Skalierbarkeit.",
+
+    "h2-2": "Funktionen",
+    "li-1": "Echtzeit-Updates über WebSocket",
+    "li-2": "Skalierbare Backend-Architektur",
+    "li-3": "API-Integration mit Krypto-Datenanbietern",
+    "li-4": "Responsive und performante Benutzeroberfläche",
+
+    "h2-3": "Technologie-Stack",
+
+    "h2-4": "Architektur",
+    "p-2": "Die Anwendung basiert auf einer Zwei-Server-Architektur: ein Frontend mit Nuxt und ein Backend-API für Datenverarbeitung und WebSocket-Kommunikation in Echtzeit.",
+
+    "h2-5": "Herausforderungen & Lösungen",
+    "p-3": "Eine zentrale Herausforderung war die effiziente Verarbeitung von Echtzeitdaten. Dies wurde durch den Einsatz von WebSocket-Verbindungen und optimierten Datenflüssen gelöst.",
+
+    "h2-6": "Live Demo",
+    "link-web": "Website ansehen:",
+
+    "h2-7": "Fazit",
+    "p-4": "Dieses Projekt zeigt fundierte Full-Stack-Entwicklung mit Fokus auf Echtzeitsysteme, skalierbare Backend-Architekturen und moderne Frontend-Technologien wie Vue und Nuxt."
+  },
+  "p-store": {
+    "title": "E-Commerce Webanwendung (Vue.js + Node.js)",
+    "sub-title": "Eine vollständige E-Commerce-Webanwendung mit Produktkatalog, Filterfunktionen, Benutzer-Authentifizierung und responsivem Design. Entwickelt mit Vue.js und Node.js.",
+
+    "h2-1": "Überblick",
+    "p-1": "Dieses Projekt ist eine mehrseitige E-Commerce-Webanwendung, die einen realistischen Online-Shop simuliert. Es ermöglicht das Durchsuchen von Produkten, Filtern und Benutzerinteraktionen.",
+
+    "h2-2": "Funktionen",
+    "li-1": "Produktkatalog mit Filter- und Suchfunktion",
+    "li-2": "Benutzer-Authentifizierung und Kontoverwaltung",
+    "li-3": "Responsives UI für alle Geräte",
+    "li-4": "Mehrseitige Navigation",
+
+    "h2-3": "Technologie-Stack",
+
+    "h2-4": "Architektur",
+    "p-2": "Die Anwendung basiert auf einer Client-Server-Architektur mit einem Vue.js-Frontend und einem Node.js-Backend zur Verarbeitung von Logik und Benutzerdaten.",
+
+    "h2-5": "Herausforderungen & Lösungen",
+    "p-3": "Eine zentrale Herausforderung war die Implementierung eines skalierbaren und benutzerfreundlichen Filtersystems. Dies wurde durch optimiertes State Management und modulare Komponenten gelöst.",
+
+    "h2-6": "Live Demo",
+    "link-web": "Website ansehen:",
+
+    "h2-7": "Fazit",
+    "p-4": "Dieses Projekt zeigt Full-Stack-Kompetenzen im Bereich E-Commerce, Benutzerinteraktion und skalierbare Webarchitekturen."
+  },
+  "p-gericht": {
+    "title": "Restaurant Website (HTML, CSS, JavaScript)",
+    "sub-title": "Moderne mehrseitige Restaurant-Website mit responsivem Design, Animationen und klar strukturierter Darstellung. Entwickelt mit HTML, CSS und JavaScript.",
+
+    "h2-1": "Überblick",
+    "p-1": "Dieses Projekt ist eine Restaurant-Website zur Präsentation von Menü, Dienstleistungen und Markenidentität mit Fokus auf Benutzererfahrung und Design.",
+
+    "h2-2": "Funktionen",
+    "li-1": "Responsive mehrseitige Struktur",
+    "li-2": "Sanfte Animationen und Scrolling",
+    "li-3": "Strukturierte Inhaltsbereiche",
+    "li-4": "Optimiertes UI für Mobile und Desktop",
+
+    "h2-3": "Technologie-Stack",
+
+    "h2-4": "Architektur",
+    "p-2": "Die Website basiert auf semantischem HTML, modernem CSS und JavaScript für Interaktivität und Animationen.",
+
+    "h2-5": "Herausforderungen & Lösungen",
+    "p-3": "Eine Herausforderung war die Kombination aus Design und Performance. Dies wurde durch optimiertes CSS und klare Struktur gelöst.",
+
+    "h2-6": "Live Demo",
+    "link-web": "Website ansehen:",
+
+    "h2-7": "Fazit",
+    "p-4": "Das Projekt zeigt Frontend-Kompetenzen im Bereich Responsive Design, UI/UX und moderne Webentwicklung."
+  },
+  "p-barber": {
+    "title": "Barbershop Website (HTML, CSS, JavaScript)",
+    "sub-title": "Moderne Barbershop-Website mit responsivem Design, Service-Bereichen und klarer Benutzerführung. Entwickelt mit HTML, CSS und JavaScript.",
+
+    "h2-1": "Überblick",
+    "p-1": "Dieses Projekt ist eine Website für einen Barbershop zur Darstellung von Dienstleistungen, Preisen und Markenidentität mit Fokus auf Benutzererfahrung.",
+
+    "h2-2": "Funktionen",
+    "li-1": "Responsives Design für alle Geräte",
+    "li-2": "Service- und Preisbereiche",
+    "li-3": "Strukturierte Navigation",
+    "li-4": "Benutzerfreundliches UI mit klaren Call-to-Actions",
+
+    "h2-3": "Technologie-Stack",
+
+    "h2-4": "Architektur",
+    "p-2": "Die Website basiert auf semantischem HTML, modernem CSS und JavaScript für Interaktivität.",
+
+    "h2-5": "Herausforderungen & Lösungen",
+    "p-3": "Eine Herausforderung war die Gestaltung eines konversionsorientierten Layouts. Dies wurde durch klare Struktur und Fokus auf Nutzeraktionen gelöst.",
+
+    "h2-6": "Live Demo",
+    "link-web": "Website ansehen:",
+
+    "h2-7": "Fazit",
+    "p-4": "Das Projekt zeigt Frontend-Kompetenzen im Bereich UI/UX, Responsive Design und Entwicklung von Service-Websites."
   }
 }

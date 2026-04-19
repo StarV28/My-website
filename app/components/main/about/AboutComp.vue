@@ -92,9 +92,11 @@ const { t } = useI18n();
   gap: 15px;
 
   h5 {
-    margin: 0;
+    font-family: "Inter", sans-serif;
     font-size: 21px;
+    font-weight: 400;
     line-height: 1.3;
+    margin: 0;
   }
   ul {
     margin: 0;

@@ -63,7 +63,8 @@
     "ger-desc": "Multi-page restaurant website built with HTML, CSS, and JavaScript. Features responsive design and structured content.",
     "bs-title": "Barber Shop",
     "bs-desc": "Multi-page barber shop website focused on usability, responsive layout, and clean design.",
-    "git-link": "View All Projects on GitHub"
+    "git-link": "View All Projects on GitHub",
+    "read": "View Project Details"
   },
   "touch": {
     "title": "Get In Touch",
@@ -90,5 +91,106 @@
     "text-footer": "Full Stack Developer specializing in Vue.js, Node.js, MySQL, and WebSocket technologies. Building scalable web applications, APIs, and real-time systems with clean architecture.",
     "ogDescription": "Building scalable web apps with Vue, Nuxt, Node.js",
     "ogTitle": "Volodymyr Starovoit - Full Stack Developer"
+  },
+  "p-crypto": {
+    "title": "Crypto Aggregator (Nuxt.js + Node.js)",
+    "sub-title": "  A real-time cryptocurrency aggregator that provides live price tracking, analytics, and market data using a scalable backend architecture.",
+    "h2-1": "Overview",
+    "p-1": "    This project is built to monitor cryptocurrency prices in real time using modern web technologies like Nuxt 3 and Node.js.",
+    "h2-2": "Features",
+    "li-1": "Real-time updates via WebSocket",
+    "li-2": "Scalable backend architecture",
+    "li-3": "API integration with crypto providers",
+    "li-4": "Responsive UI",
+    "h2-3": "Tech Stack",
+    "h2-4": "Architecture",
+    "p-2": "The application uses a two-server architecture: a frontend built with Nuxt and a backend API handling data processing and WebSocket connections.",
+    "h2-5": "Challenges & Solutions",
+    "p-3": "One of the key challenges was handling real-time updates efficiently. This was solved using WebSocket connections and optimized data flow.",
+    "h2-6": "Live Demo",
+    "link-web": "Link Website:",
+    "h2-7": "Conclusion",
+    "p-4": "This project demonstrates strong full stack development skills including real-time systems, scalable backend architecture, and modern frontend development."
+  },
+  "p-store": {
+    "title": "E-Commerce Web Application (Vue.js + Node.js)",
+    "sub-title": "A full-featured e-commerce web application with product catalog, filtering, authentication, and responsive UI. Built using Vue.js and Node.js with a focus on usability and performance.",
+
+    "h2-1": "Overview",
+    "p-1": "This project is a multi-page e-commerce web application designed to simulate a real online store. It includes product browsing, filtering, and user interaction features built with modern web technologies.",
+
+    "h2-2": "Features",
+    "li-1": "Product catalog with filtering and search",
+    "li-2": "User authentication and account management",
+    "li-3": "Responsive UI optimized for all devices",
+    "li-4": "Structured multi-page navigation",
+
+    "h2-3": "Tech Stack",
+
+    "h2-4": "Architecture",
+    "p-2": "The application follows a client-server architecture with a Vue.js frontend and a Node.js backend handling business logic, routing, and user data management.",
+
+    "h2-5": "Challenges & Solutions",
+    "p-3": "One of the main challenges was building a scalable and user-friendly product filtering system. This was solved by optimizing state management and structuring components for maintainability.",
+
+    "h2-6": "Live Demo",
+    "link-web": "View Website:",
+
+    "h2-7": "Conclusion",
+    "p-4": "This project demonstrates full stack development skills including building e-commerce applications, managing user interactions, and creating scalable and maintainable web architectures."
+  },
+  "p-gericht": {
+    "title": "Restaurant Website (HTML, CSS, JavaScript)",
+    "sub-title": "A modern multi-page restaurant website with responsive design, smooth animations, and structured content. Built using HTML, CSS, and JavaScript with a focus on user experience and visual presentation.",
+
+    "h2-1": "Overview",
+    "p-1": "This project is a restaurant website designed to showcase menu, services, and brand identity. It focuses on clean layout, responsive design, and smooth user interaction.",
+
+    "h2-2": "Features",
+    "li-1": "Responsive multi-page layout",
+    "li-2": "Smooth scrolling and animations",
+    "li-3": "Structured sections for menu and content",
+    "li-4": "Optimized UI for mobile and desktop",
+
+    "h2-3": "Tech Stack",
+
+    "h2-4": "Architecture",
+    "p-2": "The project is built using semantic HTML structure, modern CSS styling, and JavaScript for interactivity and animations.",
+
+    "h2-5": "Challenges & Solutions",
+    "p-3": "A key challenge was creating a visually appealing layout while maintaining performance and responsiveness. This was achieved through optimized CSS and structured components.",
+
+    "h2-6": "Live Demo",
+    "link-web": "View Website:",
+
+    "h2-7": "Conclusion",
+    "p-4": "This project demonstrates frontend development skills including responsive design, UI/UX implementation, and building visually engaging landing pages."
+  },
+  "p-barber": {
+    "title": "Barbershop Website (HTML, CSS, JavaScript)",
+    "sub-title": "A modern barbershop website with responsive design, service sections, and user-focused layout. Built using HTML, CSS, and JavaScript with a focus on usability and conversion.",
+
+    "h2-1": "Overview",
+    "p-1": "This project is a barbershop website designed to present services, pricing, and brand identity. It focuses on clean layout, user experience, and accessibility across devices.",
+
+    "h2-2": "Features",
+    "li-1": "Responsive layout for mobile and desktop",
+    "li-2": "Service and pricing sections",
+    "li-3": "Structured navigation and content",
+    "li-4": "User-friendly UI with clear call-to-action",
+
+    "h2-3": "Tech Stack",
+
+    "h2-4": "Architecture",
+    "p-2": "The website is built using semantic HTML, modern CSS styling, and JavaScript for interactive elements and smooth user experience.",
+
+    "h2-5": "Challenges & Solutions",
+    "p-3": "The main challenge was designing a clean and conversion-focused layout. This was solved by structuring content clearly and emphasizing key user actions such as booking or contact.",
+
+    "h2-6": "Live Demo",
+    "link-web": "View Website:",
+
+    "h2-7": "Conclusion",
+    "p-4": "This project demonstrates frontend development skills including responsive design, UI/UX implementation, and building service-oriented landing pages."
   }
 }

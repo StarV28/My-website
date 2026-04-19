@@ -27,10 +27,17 @@
             </div>
           </div>
           <div class="box__description">{{ t("proj.ag-desc") }}</div>
+          <NuxtLink
+            :to="localPath('/projects/crypto-aggregator')"
+            class="box__btn-link-description"
+          >
+            {{ t("proj.read") }}
+          </NuxtLink>
           <div class="box__tech">
             <span>Nuxt.js</span><span>Type Script</span><span>Node.js</span
-            ><span>Express</span><span>JWT</span><span>WebSocket</span
-            ><span>MySQL</span><span>Redis</span>
+            ><span>Express</span><span>JWT authentication,</span
+            ><span>WebSocket</span><span>REST API,</span
+            ><span>MySQL database</span><span>Redis database cache</span>
           </div>
         </div>
       </div>
@@ -56,9 +63,16 @@
             </div>
           </div>
           <div class="box__description">{{ t("proj.st-desc") }}</div>
+          <NuxtLink
+            :to="localPath('/projects/mini-store')"
+            class="box__btn-link-description"
+          >
+            {{ t("proj.read") }}
+          </NuxtLink>
           <div class="box__tech">
-            <span>Vue.js</span><span>Type Script</span><span>Node.js</span
-            ><span>Express</span><span>JWT</span><span>MySQL</span>
+            <span>Vue.js,</span><span>Type Script,</span><span>Node.js,</span
+            ><span>Express,</span><span>JWT authentication,</span
+            ><span>REST API,</span><span>MySQL database</span>
           </div>
         </div>
       </div>
@@ -84,6 +98,12 @@
             </div>
           </div>
           <div class="box__description">{{ t("proj.ger-desc") }}</div>
+          <NuxtLink
+            :to="localPath('/projects/gericht')"
+            class="box__btn-link-description"
+          >
+            {{ t("proj.read") }}
+          </NuxtLink>
           <div class="box__tech">
             <span>HTML</span><span>CSS</span><span>Java Script</span>
           </div>
@@ -111,6 +131,12 @@
             </div>
           </div>
           <div class="box__description">{{ t("proj.bs-desc") }}</div>
+          <NuxtLink
+            :to="localPath('/projects/barber-shop')"
+            class="box__btn-link-description"
+          >
+            {{ t("proj.read") }}
+          </NuxtLink>
           <div class="box__tech">
             <span>HTML</span><span>CSS</span><span>Java Script</span>
           </div>
@@ -131,6 +157,7 @@
 </template>
 
 <script setup lang="ts">
+const localPath = useLocalePath();
 const { t } = useI18n();
 const { theme } = useTheme();
 const iconColor = computed(() => (theme.value === "dark" ? "#fff" : "#000"));
@@ -250,6 +277,14 @@ const iconColor = computed(() => (theme.value === "dark" ? "#fff" : "#000"));
       font-family: "Inter", sans-serif;
       font-weight: 300;
       color: #fff;
+    }
+  }
+  &__btn-link-description {
+    font-weight: 500;
+    color: var(--text-color);
+    cursor: pointer;
+    &:not(:last-child) {
+      margin-bottom: 10px;
     }
   }
 }
