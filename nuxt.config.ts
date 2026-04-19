@@ -51,10 +51,10 @@ export default defineNuxtConfig({
     strategy: "prefix_except_default",
     defaultLocale: "en",
     locales: [
-      { code: "en", name: "English", file: "en.json", flag: "🇬🇧" },
-      { code: "de", name: "Deutsch", file: "de.json", flag: "🇩🇪" },
-      { code: "ua", name: "Українська", file: "ua.json", flag: "🇺🇦" },
-      { code: "ru", name: "Русский ", file: "ru.json", flag: "🇺🇦" },
+      { code: "en", name: "English", file: "en.json" },
+      { code: "de", name: "Deutsch", file: "de.json" },
+      { code: "ua", name: "Українська", file: "ua.json" },
+      { code: "ru", name: "Русский ", file: "ru.json" },
     ],
     detectBrowserLanguage: {
       useCookie: true,
