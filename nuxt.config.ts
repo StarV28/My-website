@@ -26,7 +26,7 @@ export default defineNuxtConfig({
         { name: "viewport", content: "width=device-width, initial-scale=1" },
       ],
       script: [{}],
-      link: [{ rel: "icon", type: "image/x-icon", href: "/logo-my.ico" }],
+      link: [{ rel: "icon", type: "image/x-icon", href: "/logo.ico" }],
     },
   },
   css: ["./app/assets/main.scss", "./app/assets/fonts.css"],
